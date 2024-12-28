@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/undefined-heroes/",
+    "build": "vite build --base=/js_101_Vladyslav-Tykhyi/",
     "preview": "vite preview"
   },
   "devDependencies": {
